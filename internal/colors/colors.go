@@ -1,3 +1,4 @@
+// Package colors are just a collection of colors =w=
 package colors
 
 const (
